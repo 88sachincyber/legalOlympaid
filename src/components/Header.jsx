@@ -1,6 +1,3 @@
-// components/Header.jsx
-import React from "react";
-
 const Header = ({ toggleSidebar }) => {
   const today = new Date().toLocaleDateString();
 

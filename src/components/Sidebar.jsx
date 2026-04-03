@@ -1,6 +1,3 @@
-// components/Sidebar.jsx
-import React from "react";
-
 const Sidebar = ({ isOpen }) => {
   const menu = ["Dashboard", "Internships", "Courses", "Rankings"];
 
