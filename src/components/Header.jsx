@@ -13,7 +13,7 @@ const Header = ({ toggleSidebar }) => {
         </button>
 
         <h1 className="text-2xl font-bold">
-          Welcome, Sachin 👋
+          Welcome, Sachin 
         </h1>
       </div>
 
